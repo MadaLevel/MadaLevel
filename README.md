@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MadaLevel
-- 👀 I’m interested in Agile frameworks
+- 👋 Hi, I’m @Hari
+- 👀 I’m interested in Data, Design, AI, New Tech
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
